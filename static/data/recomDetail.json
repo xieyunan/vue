@@ -1,0 +1,87 @@
+{
+  "albums":[
+    {
+      "nm": "告白气球",
+      "star":"周杰伦",
+      "bg": "./static/video/gaobaiqiqiu.mp4"
+    },
+    {
+      "nm": "归去来兮",
+      "star":"叶炫清",
+      "bg":"./static/video/guiqulaixi.mp4"
+    },
+    {
+      "nm": "请先说你好",
+      "star":"贺一航",
+      "bg": "./static/video/qingxianshounihao.mp4"
+    },
+    {
+      "nm": "That Girl",
+      "star":"Olly Murs",
+      "bg":"./static/video/That Girl.mp4"
+    },
+    {
+      "nm": "没有你陪伴真的好孤",
+      "star":"单梦然",
+      "bg":"./static/video/meiyounipeiban.mp4"
+    },
+    {
+      "nm": "《悲伤逆流成河》主题曲",
+      "star":"张韶涵",
+      "bg": "./static/video/ruhe.mp4"
+    },
+   
+    {
+      "nm": "再见青春",
+      "star":"任素汐",
+      "bg":"./static/video/zaijianqinhchun.mp4"
+    },
+      {
+        "nm": "凉凉",
+        "star":"张碧晨/杨宗纬",
+        "bg":"./static/video/liangiang.mp4"
+      },
+      {
+        "nm": "倒数",
+        "star":"邓紫棋",
+        "bg":"./static/video/daoshu.mp4"
+      },
+      {
+        "nm": "以后的以后",
+        "star":"庄心妍",
+        "bg":"./static/video/yihoudeyihou.mp4"
+      },
+      {
+        "nm": "九张机/双世宠妃",
+        "star":"叶炫清",
+        "bg":"./static/video/jiuzhangji.mp4"
+      },
+     
+      {
+        "nm": "我们不该这样",
+        "star":"张赫宣",
+        "bg":"./static/video/womwnbugaizheyang.mp4"
+      },
+      
+      
+      {
+        "nm": "纸短情长",
+        "star":"烟把儿乐队",
+        "bg":"./static/video/zhiduanqingchang.mp4"
+      },
+      {
+        "nm": "逆流成河",
+        "star":"金南玲",
+        "bg":"./static/video/niliuchenghe.mp4"
+      },{
+        "nm": "双世宠妃",
+        "star":"贺景轩",
+        "bg":"./static/video/shuangshilianren.mp4"
+      },
+      {
+        "nm": "漂洋过海来看你",
+        "star":"朱亚文/王丽坤",
+        "bg":"./static/video/piaoyangguohailaikanni.mp4"
+      }
+  ]
+}
